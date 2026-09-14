@@ -1,16 +1,37 @@
-## Hi there 👋
+# Osman İlçektuğ
 
-<!--
-**osmanilcektu/osmanilcektu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on native Windows applications, web development, AI-assisted software, and open-source tools.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .NET / WinUI 3
+- PHP / Laravel
+- JavaScript / TypeScript
+- SQL
+- Windows development
+- AI tooling and integrations
+
+## Open Source
+
+I build and maintain open-source tools, localization projects, and developer utilities.
+
+### SteelSeries GG Turkish Localization
+
+Community-maintained Turkish localization for SteelSeries GG.
+
+- Engine
+- Sonar
+- Prism
+- Moments
+- Device settings
+- Other interface components
+
+Repository: [steelseries-gg-turkce-yama](https://github.com/osmanilcektu/steelseries-gg-turkce-yama)
+
+## Currently Building
+
+Native Windows applications, developer tools, and AI-assisted software.
+
+## Contact
+
+Website: https://osmanilcektu.com
